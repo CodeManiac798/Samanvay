@@ -1,0 +1,503 @@
+[
+  {
+    "hindi": "नमस्ते",
+    "english": "Hello",
+    "example": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "hindi": "धन्यवाद",
+    "english": "Thank you",
+    "example": "आपकी मदद के लिए धन्यवाद।"
+  },
+  {
+    "hindi": "कृपया",
+    "english": "Please",
+    "example": "कृपया दरवाज़ा बंद करें।"
+  },
+  {
+    "hindi": "शुभकामनाएँ",
+    "english": "Best wishes",
+    "example": "आपको शुभकामनाएँ।"
+  },
+  {
+    "hindi": "प्रेम",
+    "english": "Love",
+    "example": "माँ का प्रेम अनंत होता है।"
+  },
+  {
+    "hindi": "मित्र",
+    "english": "Friend",
+    "example": "मेरा सबसे अच्छा मित्र राहुल है।"
+  },
+  {
+    "hindi": "परिवार",
+    "english": "Family",
+    "example": "परिवार में सबका साथ है।"
+  },
+  {
+    "hindi": "विद्यालय",
+    "english": "School",
+    "example": "मैं रोज विद्यालय जाता हूँ।"
+  },
+  {
+    "hindi": "पुस्तक",
+    "english": "Book",
+    "example": "यह पुस्तक बहुत रोचक है।"
+  },
+  {
+    "hindi": "ज्ञान",
+    "english": "Knowledge",
+    "example": "ज्ञान ही शक्ति है।"
+  },
+  {
+    "hindi": "संस्कार",
+    "english": "Values",
+    "example": "संस्कार हमें अच्छे इंसान बनाते हैं।"
+  },
+  {
+    "hindi": "साहस",
+    "english": "Courage",
+    "example": "उसमें बहुत साहस है।"
+  },
+  {
+    "hindi": "सत्य",
+    "english": "Truth",
+    "example": "सत्य हमेशा जीतता है।"
+  },
+  {
+    "hindi": "विश्वास",
+    "english": "Trust",
+    "example": "मुझे अपने आप पर विश्वास है।"
+  },
+  {
+    "hindi": "सुंदर",
+    "english": "Beautiful",
+    "example": "यह फूल बहुत सुंदर है।"
+  },
+  {
+    "hindi": "आकाश",
+    "english": "Sky",
+    "example": "आकाश नीला है।"
+  },
+  {
+    "hindi": "धरती",
+    "english": "Earth",
+    "example": "धरती हमारे ग्रह का नाम है।"
+  },
+  {
+    "hindi": "जल",
+    "english": "Water",
+    "example": "जल पिए बिना जीवन संभव नहीं।"
+  },
+  {
+    "hindi": "अग्नि",
+    "english": "Fire",
+    "example": "अग्नि से खाना पकता है।"
+  },
+  {
+    "hindi": "वायु",
+    "english": "Air",
+    "example": "वायु हमारे जीवन का आधार है।"
+  },
+  {
+    "hindi": "भोजन",
+    "english": "Food",
+    "example": "स्वस्थ भोजन से शरीर मजबूत रहता है।"
+  },
+  {
+    "hindi": "फल",
+    "english": "Fruit",
+    "example": "सेब एक स्वस्थ फल है।"
+  },
+  {
+    "hindi": "सब्जी",
+    "english": "Vegetable",
+    "example": "हरी सब्जियाँ खाने में स्वादिष्ट होती हैं।"
+  },
+  {
+    "hindi": "शिक्षा",
+    "english": "Education",
+    "example": "शिक्षा समाज का आधार है।"
+  },
+  {
+    "hindi": "स्वास्थ्य",
+    "english": "Health",
+    "example": "स्वास्थ्य सबसे बड़ी संपत्ति है।"
+  },
+  {
+    "hindi": "शांति",
+    "english": "Peace",
+    "example": "शांति से जीवन सुखद होता है।"
+  },
+  {
+    "hindi": "उत्साह",
+    "english": "Enthusiasm",
+    "example": "उत्साह से काम करने से सफलता मिलती है।"
+  },
+  {
+    "hindi": "मित्रता",
+    "english": "Friendship",
+    "example": "सच्ची मित्रता अमूल्य होती है।"
+  },
+  {
+    "hindi": "स्नेह",
+    "english": "Affection",
+    "example": "माता का स्नेह अनमोल है।"
+  },
+  {
+    "hindi": "आशा",
+    "english": "Hope",
+    "example": "आशा के बिना जीवन अधूरा है।"
+  },
+  {
+    "hindi": "समय",
+    "english": "Time",
+    "example": "समय बहुत मूल्यवान है।"
+  },
+  {
+    "hindi": "क्षमा",
+    "english": "Forgiveness",
+    "example": "क्षमा करने से मन शुद्ध होता है।"
+  },
+  {
+    "hindi": "श्रम",
+    "english": "Effort",
+    "example": "कड़ी श्रम से ही सफलता मिलती है।"
+  },
+  {
+    "hindi": "जीवन",
+    "english": "Life",
+    "example": "जीवन एक उपहार है।"
+  },
+  {
+    "hindi": "मृत्यु",
+    "english": "Death",
+    "example": "मृत्यु जीवन का अंत है।"
+  },
+  {
+    "hindi": "स्वप्न",
+    "english": "Dream",
+    "example": "स्वप्न में बड़ी बड़ी बातें होती हैं।"
+  },
+  {
+    "hindi": "संगीत",
+    "english": "Music",
+    "example": "संगीत दिल को छू जाता है।"
+  },
+  {
+    "hindi": "नृत्य",
+    "english": "Dance",
+    "example": "भारतीय नृत्य मन को प्रसन्न करता है।"
+  },
+  {
+    "hindi": "कला",
+    "english": "Art",
+    "example": "कला मन की अभिव्यक्ति है।"
+  },
+  {
+    "hindi": "विज्ञान",
+    "english": "Science",
+    "example": "विज्ञान ने दुनिया को बदल दिया है।"
+  },
+  {
+    "hindi": "इतिहास",
+    "english": "History",
+    "example": "इतिहास से हम सीखते हैं।"
+  },
+  {
+    "hindi": "संस्कृति",
+    "english": "Culture",
+    "example": "संस्कृति हमारी पहचान है।"
+  },
+  {
+    "hindi": "राजनीति",
+    "english": "Politics",
+    "example": "राजनीति समाज को प्रभावित करती है।"
+  },
+  {
+    "hindi": "स्वतंत्रता",
+    "english": "Independence",
+    "example": "स्वतंत्रता का महत्व समझें।"
+  },
+  {
+    "hindi": "आजादी",
+    "english": "Freedom",
+    "example": "आजादी के लिए संघर्ष हुआ।"
+  },
+  {
+    "hindi": "अधिकार",
+    "english": "Rights",
+    "example": "हर व्यक्ति को अधिकार मिलना चाहिए।"
+  },
+  {
+    "hindi": "न्याय",
+    "english": "Justice",
+    "example": "न्याय सच्चाई पर आधारित होता है।"
+  },
+  {
+    "hindi": "कानून",
+    "english": "Law",
+    "example": "कानून का पालन करना जरूरी है।"
+  },
+  {
+    "hindi": "शक्ति",
+    "english": "Power",
+    "example": "शक्ति का सदुपयोग करें।"
+  },
+  {
+    "hindi": "बल",
+    "english": "Strength",
+    "example": "बल से नहीं, बुद्धि से काम करें।"
+  },
+  {
+    "hindi": "प्रयास",
+    "english": "Effort",
+    "example": "प्रयास करने से सफलता मिलती है।"
+  },
+  {
+    "hindi": "सफलता",
+    "english": "Success",
+    "example": "सफलता का आनंद लें।"
+  },
+  {
+    "hindi": "विफलता",
+    "english": "Failure",
+    "example": "विफलता से सीख लें।"
+  },
+  {
+    "hindi": "आश्चर्य",
+    "english": "Surprise",
+    "example": "जीवन में आश्चर्य होते रहते हैं।"
+  },
+  {
+    "hindi": "अनुभव",
+    "english": "Experience",
+    "example": "अनुभव सबसे बड़ा शिक्षक है।"
+  },
+  {
+    "hindi": "कल्पना",
+    "english": "Imagination",
+    "example": "कल्पना की कोई सीमा नहीं होती।"
+  },
+  {
+    "hindi": "यात्रा",
+    "english": "Travel",
+    "example": "यात्रा मन को विस्तृत करती है।"
+  },
+  {
+    "hindi": "पर्यावरण",
+    "english": "Environment",
+    "example": "पर्यावरण का संरक्षण करें।"
+  },
+  {
+    "hindi": "प्रकृति",
+    "english": "Nature",
+    "example": "प्रकृति अद्भुत है।"
+  },
+  {
+    "hindi": "वन",
+    "english": "Forest",
+    "example": "वन जीवन के लिए आवश्यक हैं।"
+  },
+  {
+    "hindi": "नदी",
+    "english": "River",
+    "example": "यह नदी बहुत प्रसिद्ध है।"
+  },
+  {
+    "hindi": "पहाड़",
+    "english": "Mountain",
+    "example": "पहाड़ों में शांति होती है।"
+  },
+  {
+    "hindi": "समुद्र",
+    "english": "Sea",
+    "example": "समुद्र की लहरें सुरीली हैं।"
+  },
+  {
+    "hindi": "चंद्रमा",
+    "english": "Moon",
+    "example": "चंद्रमा रात का साथी है।"
+  },
+  {
+    "hindi": "सूरज",
+    "english": "Sun",
+    "example": "सूरज हर दिन उगता है।"
+  },
+  {
+    "hindi": "तारा",
+    "english": "Star",
+    "example": "तारे आसमान की शोभा बढ़ाते हैं।"
+  },
+  {
+    "hindi": "मौसम",
+    "english": "Weather",
+    "example": "मौसम बदलते रहते हैं।"
+  },
+  {
+    "hindi": "ऋतु",
+    "english": "Season",
+    "example": "वसंत ऋतु बहुत सुंदर होता है।"
+  },
+  {
+    "hindi": "वर्षा",
+    "english": "Rain",
+    "example": "वर्षा से खेत हरे हो जाते हैं।"
+  },
+  {
+    "hindi": "गर्मी",
+    "english": "Summer",
+    "example": "गर्मी में ठंडक का एहसास होता है।"
+  },
+  {
+    "hindi": "सर्दी",
+    "english": "Winter",
+    "example": "सर्दी में गर्म कपड़े पहनें।"
+  },
+  {
+    "hindi": "पतझड़",
+    "english": "Autumn",
+    "example": "पतझड़ में पेड़ अपनी पत्तियाँ खो देते हैं।"
+  },
+  {
+    "hindi": "बसंत",
+    "english": "Spring",
+    "example": "बसंत में फूल खिलते हैं।"
+  },
+  {
+    "hindi": "पर्व",
+    "english": "Festival",
+    "example": "हम सभी पर्व मनाते हैं।"
+  },
+  {
+    "hindi": "त्योहार",
+    "english": "Festival",
+    "example": "त्योहारों में खुशियाँ होती हैं।"
+  },
+  {
+    "hindi": "लोकतंत्र",
+    "english": "Democracy",
+    "example": "लोकतंत्र में सभी की आवाज सुनाई जाती है।"
+  },
+  {
+    "hindi": "समाज",
+    "english": "Society",
+    "example": "समाज में सभी को समान अधिकार मिलते हैं।"
+  },
+  {
+    "hindi": "मानव",
+    "english": "Human",
+    "example": "मानव दयालु प्राणी हैं।"
+  },
+  {
+    "hindi": "आत्मा",
+    "english": "Soul",
+    "example": "आत्मा अमर है।"
+  },
+  {
+    "hindi": "शरीर",
+    "english": "Body",
+    "example": "शरीर स्वस्थ होना चाहिए।"
+  },
+  {
+    "hindi": "चिकित्सा",
+    "english": "Medicine",
+    "example": "चिकित्सा से रोग ठीक होते हैं।"
+  },
+  {
+    "hindi": "रोग",
+    "english": "Disease",
+    "example": "रोग से बचाव जरूरी है।"
+  },
+  {
+    "hindi": "उपचार",
+    "english": "Treatment",
+    "example": "उपचार से जीवन सुधरता है।"
+  },
+  {
+    "hindi": "अस्पताल",
+    "english": "Hospital",
+    "example": "अस्पताल में डॉक्टर होते हैं।"
+  },
+  {
+    "hindi": "दवा",
+    "english": "Medicine/Drug",
+    "example": "दवा से बीमारी दूर होती है।"
+  },
+  {
+    "hindi": "सुरक्षा",
+    "english": "Safety",
+    "example": "सुरक्षा सबसे पहले आती है।"
+  },
+  {
+    "hindi": "लक्ष्य",
+    "english": "Goal",
+    "example": "लक्ष्य तय करना महत्वपूर्ण है।"
+  },
+  {
+    "hindi": "भविष्य",
+    "english": "Future",
+    "example": "भविष्य उज्जवल होना चाहिए।"
+  },
+  {
+    "hindi": "अवसर",
+    "english": "Opportunity",
+    "example": "अवसर का सदुपयोग करें।"
+  },
+  {
+    "hindi": "विकास",
+    "english": "Development",
+    "example": "विकास से समाज बदलता है।"
+  },
+  {
+    "hindi": "संघर्ष",
+    "english": "Struggle",
+    "example": "संघर्ष से ही सफलता मिलती है।"
+  },
+  {
+    "hindi": "कठिनाई",
+    "english": "Difficulty",
+    "example": "कठिनाई से डरो नहीं।"
+  },
+  {
+    "hindi": "विजय",
+    "english": "Victory",
+    "example": "विजय का उत्सव मनाएं।"
+  },
+  {
+    "hindi": "प्रेरणा",
+    "english": "Inspiration",
+    "example": "प्रेरणा से नए विचार आते हैं।"
+  },
+  {
+    "hindi": "मेहनत",
+    "english": "Hard work",
+    "example": "मेहनत से ही सफलता मिलती है।"
+  },
+  {
+    "hindi": "आत्मविश्वास",
+    "english": "Confidence",
+    "example": "आत्मविश्वास से सभी मुश्किलें आसान हो जाती हैं।"
+  },
+  {
+    "hindi": "अनुशासन",
+    "english": "Discipline",
+    "example": "अनुशासन से जीवन व्यवस्थित रहता है।"
+  },
+  {
+    "hindi": "समर्पण",
+    "english": "Dedication",
+    "example": "समर्पण से सपने सच होते हैं।"
+  },
+  {
+    "hindi": "दृष्टिकोण",
+    "english": "Perspective",
+    "example": "अच्छा दृष्टिकोण सफलता का आधार है।"
+  },
+  {
+    "hindi": "निर्णय",
+    "english": "Decision",
+    "example": "सही निर्णय लेने से सफलता मिलती है।"
+  }
+]
+  

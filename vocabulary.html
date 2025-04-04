@@ -1,0 +1,55 @@
+<!-- vocabulary.html -->
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hindi Vocabulary Master</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="vocab-header">
+    <nav class="main-nav">
+      <div class="nav-brand">हिंदी शब्दावली</div>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="vocabulary.html" class="active">Vocabulary</a>
+        <a href="quiz.html">Quiz</a>
+      </div>
+    </nav>
+    
+    <div class="vocab-controls">
+      <div class="search-container">
+        <i class="fas fa-search"></i>
+        <input type="text" id="searchInput" placeholder="Search Hindi words...">
+      </div>
+      <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="beginner">Beginner</button>
+        <button class="filter-btn" data-filter="intermediate">Intermediate</button>
+        <button class="filter-btn" data-filter="advanced">Advanced</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="vocabulary-section">
+      <div class="vocab-stats">
+        <span class="stat-item"><i class="fas fa-book-open"></i> Total Words: 150+</span>
+        <span class="stat-item"><i class="fas fa-check-circle"></i> Mastered: <span id="masteredCount">0</span></span>
+      </div>
+      
+      <div id="vocabulary-list" class="grid"></div>
+      
+      <div class="pagination-container">
+        <div id="pagination"></div>
+        <div class="page-info">Showing <span id="currentRange">1-12</span> of 150+ words</div>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
